@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-         Fast FEED BACK Save me 
+         Fast FEED BACK HeadLines
         </h1>
 
         <p className={styles.description}>
